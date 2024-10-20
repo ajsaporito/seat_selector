@@ -11,11 +11,13 @@ This is a **Python-based seat selection application** that provides both a **con
 To run the **console version**, use the following command:
 
   ```sh
-    python main.py console
+  python main.py console
   ```
+
+### Running the GUI Version:
 
 To run the **GUI version**, use the following command:
 
   ```sh
-    python main.py gui
+  python main.py gui
   ```
